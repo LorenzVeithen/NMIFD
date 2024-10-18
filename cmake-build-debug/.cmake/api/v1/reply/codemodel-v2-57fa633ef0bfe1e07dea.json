@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NMIF",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NMIF::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NMIF-Debug-b2ea6211e38d4b1514ee.json",
+					"name" : "NMIF",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/lorenz_veithen/Desktop/Education/04-MPhil/01_Cambridge/01_MichaelmasTerm/Continuum/02_NumericalMethods_IncompressibleFluidDynamics/NMIF/cmake-build-debug",
+		"source" : "/Users/lorenz_veithen/Desktop/Education/04-MPhil/01_Cambridge/01_MichaelmasTerm/Continuum/02_NumericalMethods_IncompressibleFluidDynamics/NMIF"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
